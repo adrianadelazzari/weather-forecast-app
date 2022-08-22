@@ -25,3 +25,13 @@
   font-weight: 600;
   margin-left: 15px;
 }
+
+.description {
+  flex: 1 1;
+  margin-right: 15px;
+  text-align: right;
+}
+
+.min-max {
+  color: #757575;
+}
