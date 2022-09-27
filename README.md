@@ -1,3 +1,7 @@
+# Weather Forecast App using React.js.
+
+![weather forecast app](https://user-images.githubusercontent.com/93550350/192602625-1d5c396f-643b-491f-a603-42308736a403.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
